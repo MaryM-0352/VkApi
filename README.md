@@ -3,3 +3,4 @@
 ## Пример запуска скрипта
 - Справка: `py main.py [-h, --help]`
 - Запуск: `py main.py user_id {friends, liked_music, albums}`
+Ссылка на защиту: https://youtu.be/FOz4tjHsZTE
